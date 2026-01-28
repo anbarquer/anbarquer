@@ -7,8 +7,8 @@
   <main>
     <h1>About Me</h1>
     <p>
-      Software engineer and data scientist with experience in system design and data-driven applications. Focused on building maintainable systems,
-      clear abstractions, and practical solutions.
+Senior Software Engineer with a strong background in backend systems, machine learning, and MLOps.
+Experienced in building production-ready solutions using Python, Django/FastAPI, cloud infrastructure, and ML models, including LLM-based systems.
     </p>
     <h2>Profiles</h2>
     <ul>
