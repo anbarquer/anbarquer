@@ -7,8 +7,7 @@
   <main>
     <h1>About Me</h1>
     <p>
-Senior software engineer with a strong background in backend systems, machine learning, and MLOps.
-Experienced in building production-ready solutions using Python, Django/FastAPI, cloud infrastructure, and ML models, including LLM-based systems.
+Senior software engineer and data scientist with background in backend systems, cloud infrastructure, and ML models, including LLM-based systems.
     </p>
     <h2>Profiles</h2>
     <ul>
