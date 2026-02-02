@@ -7,7 +7,7 @@
   <main>
     <h1>About Me</h1>
     <p>
-Senior software engineer and data scientist with background in backend systems, cloud infrastructure, and ML models, including LLM-based systems.
+Senior software engineer and data scientist with background in backend systems, cloud infrastructure and ML models, including LLM-based systems.
     </p>
     <h2>Profiles</h2>
     <ul>
