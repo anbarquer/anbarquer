@@ -1,8 +1,5 @@
 <div style="max-width: 820px; margin: 0 auto; background-color: var(--color-canvas-default, #ffffff); border: 1px solid var(--color-border-default, #d0d7de); border-radius: 8px; padding: 32px 28px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif; color: var(--color-fg-default, #24292f); line-height: 1.6;">
 
-  <p style="font-size: 26px; font-weight: 600; margin: 0 0 2px 0; color: var(--color-fg-default, #1f2328);">
-    Antonio D. Barquero Cuadrado
-  </p>
   <p style="font-size: 16px; margin: 0 0 16px 0; color: var(--color-fg-muted, #57606a);">
     Senior Software Engineer · Data Scientist
   </p>
