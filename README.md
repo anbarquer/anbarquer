@@ -5,8 +5,6 @@
   </p>
 
   <p style="font-size: 14px; margin: 0 0 20px 0;">
-    <a href="https://github.com/anbarquer" style="color: var(--color-accent-fg, #0969da); text-decoration: none; font-weight: 500;">GitHub</a>
-    <span style="margin: 0 8px; color: var(--color-fg-muted, #57606a);">|</span>
     <a href="https://www.linkedin.com/in/anbarquer/" style="color: var(--color-accent-fg, #0969da); text-decoration: none; font-weight: 500;">LinkedIn</a>
     <span style="margin: 0 8px; color: var(--color-fg-muted, #57606a);">|</span>
     <a href="https://stackoverflow.com/users/7052555/anbarquer" style="color: var(--color-accent-fg, #0969da); text-decoration: none; font-weight: 500;">Stack Overflow</a>
