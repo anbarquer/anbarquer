@@ -45,7 +45,7 @@
   <div style="background-color: var(--color-canvas-inset, #f6f8fa); border: 1px solid var(--color-border-muted, #d8dee4); border-radius: 6px; padding: 10px 14px; margin: 18px 0;">
     <strong style="color: var(--color-fg-default, #1f2328);">Core technologies:</strong> Python, JavaScript, Bash, Django, FastAPI, PostgreSQL, Elasticsearch, Redis, Celery, Terraform, Kubernetes, AWS, GCP, Docker, LLMs and more.
   </div>
-
+  <br>
   <p style="margin: 18px 0 0 0;">
     I am seeking opportunities where I can contribute to high-impact AI initiatives, drive technical strategy, and mentor teams in building robust, scalable data products. My approach is grounded in rigorous engineering discipline, clear documentation, and a focus on measurable business outcomes.
   </p>
